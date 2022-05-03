@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Kristiyan Merdzhov</h1>
 <h3 align="center">I'm a Computer Science Student in Germany.</h3>
 
-- 🔭 I’m currently working on debugging my api in my Natours project [Natours](https://github.com/NewPhoneWhoDis/Natours)
+- 🔭 I’m currently working on debugging my api in my Project [Natours](https://github.com/NewPhoneWhoDis/Natours)
 
-- 🤝 I’m looking for help with debugging my Natours Project [Natours](https://github.com/NewPhoneWhoDis/Natours)
+- 🤝 I’m looking for help with debugging my Project [Natours](https://github.com/NewPhoneWhoDis/Natours)
 
 - 👨‍💻 All of my projects are available at [https://newphonewhodis.github.io/Portfolio/](https://newphonewhodis.github.io/Portfolio/)
 
-- 📫 How to reach me **kristiyanmerdzhovb@gmail.com**
+- 📫 Reach me at **kristiyanmerdzhovb@gmail.com**
 
 - ⚡ Fun fact **👀**
+
+- 🌱 Currently learning the MERN stack, spring, Web3, Blockchain and honing my skills in CSS and HTML
 
 
 <p align="left">
