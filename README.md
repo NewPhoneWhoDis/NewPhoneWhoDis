@@ -25,8 +25,8 @@
 
 ### :zap: GitHub Stats
 <p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NewPhoneWhoDis&show_icons=true&hide_border=true&show_owner=true&title_color=FF00FF&theme=dark&custom_title=My Github Stats &layout=compact" /><br><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NewPhoneWhoDis&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=NewPhoneWhoDis&show_icons=true&hide_border=true&show_owner=true&title_color=FF00FF&theme=dark&custom_title=My Github Stats &layout=compact" /><br><br>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NewPhoneWhoDis&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
 </p>
 
 
