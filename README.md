@@ -14,8 +14,7 @@
 - 🌱 Currently learning the MERN stack, spring, Web3, Blockchain and honing my skills in CSS and HTML
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NewPhoneWhoDis
-&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NewPhoneWhoDis&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <p align="left">
