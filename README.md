@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kristiyan Merdzhov</h1>
 <h3 align="center">I'm a Computer Science Student in Germany.</h3>
 
-- 🤝 Feel free to get in touch with me if you are interested in web-developmentin, in particular e-commerce and fintech.
+- 🤝 Feel free to get in touch with me if you are interested in web-development, in particular e-commerce and fintech.
 
 - 👨‍💻 All of my projects are available at [https://newphonewhodis.github.io/Portfolio/](https://newphonewhodis.github.io/Portfolio/)
 
 - 📫 Reach me at **kristiyanmerdzhovb@gmail.com**
 
-- 🌱 Currently learning the MERN stack, spring and honing my skills in CSS and HTML.
+- 🌱 Currently learning the MERN stack and honing my skills in CSS and HTML.
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NewPhoneWhoDis&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
