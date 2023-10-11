@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kristiyan Merdzhov</h1>
-<h3 align="center">I'm a Computer Science Student in Germany.</h3>
+<h3 align="center">I'm a Fullstack Developer based in Germany.</h3>
 
 - 🤝 Feel free to get in touch with me if you are interested in web-development, in particular e-commerce and fintech.
 
@@ -7,7 +7,7 @@
 
 - 📫 Reach me at **kristiyanmerdzhovb@gmail.com**
 
-- 🌱 Currently learning the MERN stack and honing my skills in CSS and HTML.
+- 🌱 Currently learning Next.js and AWS.
 
 
 # 💻 Tech Stack:
