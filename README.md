@@ -3,7 +3,7 @@
 
 - 🤝 Feel free to get in touch with me if you are interested in web-development, in particular e-commerce and fintech.
 
-- 👨‍💻 All of my projects are available at [https://newphonewhodis.github.io/Portfolio/](https://newphonewhodis.github.io/Portfolio/)
+- 👨‍💻 My website portfolio is available at [https://threejs-portfolio-puce.vercel.app/)
 
 - 📫 Reach me at **kristiyanmerdzhovb@gmail.com**
 
