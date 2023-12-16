@@ -3,7 +3,7 @@
 
 - 🤝 Feel free to get in touch with me if you are interested in web-development, in particular e-commerce and fintech.
 
-- 👨‍💻 My website portfolio is available at [https://threejs-portfolio-puce.vercel.app/)
+- 👨‍💻 My website portfolio is available at https://threejs-portfolio-puce.vercel.app/
 
 - 📫 Reach me at **kristiyanmerdzhovb@gmail.com**
 
